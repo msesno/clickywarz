@@ -18,6 +18,8 @@ open console:
 ### Front-end
 - HTML, CSS (Bootstrap)
 - Javascript (JQuery)
+- FontAwesome/GoogleFonts
+- tile images generic from Google
 
 ### Back-end
 - JavaScript (JQuery)
