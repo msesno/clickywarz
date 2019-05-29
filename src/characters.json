@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Luke Skywalker",
+    "photo": "https://raw.githubusercontent.com/msesno/clickywarz/master/img/luke.png"
+  },
+  {
+    "name": "R2D2",
+    "photo": "https://raw.githubusercontent.com/msesno/clickywarz/master/img/r2d2.png"
+  },
+  {
+    "name": "Boba Fett",
+    "photo": "https://raw.githubusercontent.com/msesno/clickywarz/master/img/boba.png"
+  },
+  {
+    "name": "C3P0",
+    "photo": "https://raw.githubusercontent.com/msesno/clickywarz/master/img/c3p0.png"
+  },
+  {
+    "name": "Chewbacca",
+    "photo": "https://raw.githubusercontent.com/msesno/clickywarz/master/img/chewy.png"
+  },
+  {
+    "name": "Darth Vader",
+    "photo": "https://raw.githubusercontent.com/msesno/clickywarz/master/img/darth.png"
+  },
+  {
+    "name": "Han Solo",
+    "photo": "https://raw.githubusercontent.com/msesno/clickywarz/master/img/han.png"
+  },
+  {
+    "name": "Princess Leia",
+    "photo": "https://raw.githubusercontent.com/msesno/clickywarz/master/img/leia.png"
+  },
+  {
+    "name": "Obi Wan Kenobi",
+    "photo": "https://raw.githubusercontent.com/msesno/clickywarz/master/img/obiwan.png"
+  },
+  {
+    "name": "Storm Trooper",
+    "photo": "https://raw.githubusercontent.com/msesno/clickywarz/master/img/storm.png"
+  },
+  {
+    "name": "Yoda",
+    "photo": "https://raw.githubusercontent.com/msesno/clickywarz/master/img/yoda.png"
+  },
+  {
+    "name": "Emperor",
+    "photo": "https://raw.githubusercontent.com/msesno/clickywarz/master/img/emperor.png"
+  }
+]

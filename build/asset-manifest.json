@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cd70ef4a.chunk.css",
+    "main.js": "/static/js/main.2a47a426.chunk.js",
+    "main.js.map": "/static/js/main.2a47a426.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.98dcc9dd.chunk.js": "/static/js/2.98dcc9dd.chunk.js",
+    "static/js/2.98dcc9dd.chunk.js.map": "/static/js/2.98dcc9dd.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.c57aa533b7f6f5c7df3e1f2b346de4dc.js": "/precache-manifest.c57aa533b7f6f5c7df3e1f2b346de4dc.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.cd70ef4a.chunk.css.map": "/static/css/main.cd70ef4a.chunk.css.map",
+    "static/media/boba.png": "/static/media/boba.b443ac1a.png",
+    "static/media/c3p0.png": "/static/media/c3p0.b9fe2a9e.png",
+    "static/media/chewy.png": "/static/media/chewy.70b4c565.png",
+    "static/media/darth.png": "/static/media/darth.24df3013.png",
+    "static/media/emperor.png": "/static/media/emperor.760896df.png",
+    "static/media/han.png": "/static/media/han.b66e5517.png",
+    "static/media/leia.png": "/static/media/leia.9bc6a5bd.png",
+    "static/media/luke.png": "/static/media/luke.1d16cf78.png",
+    "static/media/obiwan.png": "/static/media/obiwan.3507adb3.png",
+    "static/media/r2d2.png": "/static/media/r2d2.f47c3ff1.png",
+    "static/media/storm.png": "/static/media/storm.b17e4314.png",
+    "static/media/yoda.png": "/static/media/yoda.21ffe2b4.png"
+  }
+}
