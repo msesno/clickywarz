@@ -30,4 +30,4 @@ open console:
 - Deployed site: https://polar-sea-38119.herokuapp.com/
 
 ### Screenshot
-<img src="ss1.png"><br>
+<img src="ss.png"><br>
