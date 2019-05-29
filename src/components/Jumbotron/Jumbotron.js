@@ -4,10 +4,10 @@ import "./Jumbotron.css";
 const Jumbotron = () => {
   return (
     <div className="container"><br></br>
-      <div className="jumbotron">
-        <h1 className="display-3"><i class="fas fa-jedi"></i> <em>Clicky WarZ</em></h1>
+      <div className="jumbotron shadow bg-light rounded mb-5 border border-light">
+        <h1 className="display-4"><i className="fas fa-jedi"></i> <em>Clicky WarZ</em></h1>
         <hr></hr>
-        <p className="lead">Single Click Memory Game, version <i>starwarz</i> <br></br>  <code>Click any image below to begin!</code>  </p>
+        <p className="lead">Single Click Memory Game,  <em>version starwarz</em> <br></br>  <code>Click any image below to begin!</code>  </p>
       </div>
     </div>
   );
